@@ -1,4 +1,4 @@
-![logo](blog-website.png)
+![logo](blog website.png)
 
 # React + Vite
 
